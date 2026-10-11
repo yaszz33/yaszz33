@@ -1,16 +1,21 @@
-## Hi there 👋
+# `> hey, i'm a developer in progress`
 
-<!--
-**yaszz33/yaszz33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning to build things, one bug at a time.
 
-Here are some ideas to get you started:
+```python
+class Developer:
+    def __init__(self):
+        self.learning = ["Python", "HTML", "CSS"]
+        self.status = "building & debugging"
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently:** Learning · Building · Experimenting
+
+**Interests:** Web Development · Programming · Open Source
+### `> tech stack`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
+
+---
+
+*currently debugging life.*
